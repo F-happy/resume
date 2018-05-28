@@ -10,8 +10,8 @@
 
 # 个人信息
 
- - 付会翔/男/1991 
- - 本科/大连民族大学计算机科学与技术 
+ - 付会翔 / 男 / 1991 
+ - 本科 / 大连民族大学 / 计算机科学与技术 
  - 工作年限：3年
  - 技术博客：http://www.cnblogs.com/fuhuixiang
  - Github：https://github.com/F-happy
