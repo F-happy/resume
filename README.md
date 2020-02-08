@@ -1,17 +1,11 @@
 ---
 
-# 联系方式
-
-- 手机：18642636963
-- Email：fuhuixiang@jonnyf.com
-- QQ/微信号：644612679
-
----
-
 # 个人信息
 
  - 付会翔 / 男 / 1991 
- - 本科 / 大连民族大学 / 计算机科学与技术 
+ - 手机：18642636963
+ - Email：fuhuixiang@jonnyf.com
+ - QQ/微信号：644612679
  - 工作年限：4 年
  - 技术博客：http://www.cnblogs.com/fuhuixiang
  - Github：https://github.com/F-happy
@@ -144,17 +138,6 @@
 - [我的前端故事----优美的编辑器GitHub Atom](http://www.cnblogs.com/fuhuixiang/p/4840866.html)
 - [端页面--天猫右侧信息栏弹出效果实现](http://www.cnblogs.com/fuhuixiang/p/4342607.html)
 - [我的前端故事--疯狂倒计时(requestAnimationFrame)](http://www.cnblogs.com/fuhuixiang/p/4957802.html) 
-
-
-# 技能清单
-
-以下均为我熟练使用的技能
-
-- Web开发：Node
-- Web框架：Koa2/GraphQL
-- 前端框架：Vue/React/React-native
-- 前端工具：Vue-cli/Gulp/SASS/Grunt/Webpack
-- 版本管理工具：Git
 
 ---
 
